@@ -1,1 +1,3 @@
 # Causal-Inference-in-Airline-Passenger-Satisfaction
+## Airline passenger satisfaction plays a crucial role in the success of airline companies. Understanding the factors that contribute to passenger satisfaction is essential for airlines to improve their services, retain customers, and gain a competitive edge in the industry. 
+## Causal inference provides a powerful framework to overcome these challenges and gain insights into the causal relationships between variables. In this Jupyter notebook, we will explore the application of causal inference techniques to analyze airline passenger satisfaction.
